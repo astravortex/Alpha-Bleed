@@ -4,6 +4,7 @@
 
 The plugin supports **8-bit and 16-bit RGB documents** and creates a new output layer. The selected source layer is not modified.
 
+![assets/AlphaBleedForPhotonStudioByAstraVortex.png]
 ---
 
 ## 1. Quick start
